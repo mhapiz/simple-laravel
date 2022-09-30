@@ -2,7 +2,7 @@
 
 Clone the repository
 
-> https://github.com/mhapiz/simple-laravel.git
+> git clone https://github.com/mhapiz/simple-laravel.git
 
 Switch to the repo folder
 
